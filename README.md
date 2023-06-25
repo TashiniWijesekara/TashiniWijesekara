@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **IJSE**
 
-- 📫 How to reach me **wiesekaratashini@gmail.com**
+- 📫 How to reach me **wijesekaratashini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
