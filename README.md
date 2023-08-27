@@ -9,9 +9,10 @@
 
 <h3 align="left">About Me</h3>
 
-- 🌱 I’m currently learning at **IJSE - Institute of Software Engineering**
+- 👨‍🎓 I'm Studying at **IJSE - Institute of Software Engineering**
 
 - 📫 How to reach me **wijesekaratashini@gmail.com**
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
