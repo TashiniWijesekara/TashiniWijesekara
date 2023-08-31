@@ -11,7 +11,7 @@
 
 - 👨‍🎓 I'm Studying at **IJSE - Institute of Software Engineering**
 
-- 🌱 I’m currently learning Java , MySql , JavaFx , Hibarnate , HTML , JavaFx 
+-  🌱 I’m currently learning Java , MySql ,JavaFx , Hibarnate , HTML , CSS
 
 - 📫 How to reach me **wijesekaratashini@gmail.com**
 
