@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/37c07438-a124-4843-9420-85eb755da186" width="100%" height="250">
+<img src="https://github.com/user-attachments/assets/37c07438-a124-4843-9420-85eb755da186" width="100%" height="200">
 <h1 align="center">Hi 👋, I'm Tashini Wijesekara</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
